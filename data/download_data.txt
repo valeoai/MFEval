@@ -1,0 +1,1 @@
+Download nuScenes full dataset (v1.0) and map expansion (v1.3) [here](https://www.nuscenes.org/download).

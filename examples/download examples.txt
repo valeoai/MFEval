@@ -1,0 +1,1 @@
+You can download example json files from https://drive.google.com/drive/folders/1nSY253S2inR8MF3J51eLmtJ2mAV_J-SC?usp=sharing) and put them into the examples folder.
