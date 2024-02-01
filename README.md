@@ -1,4 +1,4 @@
-# Towards Motion Forecasting with Real-World Perception Inputs: Are End-to-End Approaches Competitive? (ICCVW 2023)
+# Towards Motion Forecasting with Real-World Perception Inputs: Are End-to-End Approaches Competitive? (ICRA 2024)
 ### [Paper](https://arxiv.org/abs/2306.09281) | [Webpage](https://valeoai.github.io/blog/publications/real-world-forecasting/)
 
 ### This is the official implementation of the evaluation protocol proposed in this work for motion forecasting models with real-world perception inputs.
@@ -138,18 +138,17 @@ This work is released under the [Apache 2.0 license](./LICENSE).
 ## Citation
 If you find our work useful for your research, please consider citing the paper:
 ```bash
-@article{xu2023realworldforecasting,
-  title     = {Towards Motion Forecasting with Real-World Perception Inputs: Are End-to-End Approaches Competitive?},
-  author    = {Yihong Xu and
-               Loick Chambon and
-               Eloi Zablocki and
-               Mickael Chen and
-               Alexandre Alahi and
-               Matthieu Cord and
-               Patrick Perez},
-  journal = {CoRR},
-  volume  = {abs/2306/09281},
-  year    = {2023}
+@inproceedings{xu2024realworldforecasting,
+  title      = {Towards Motion Forecasting with Real-World Perception Inputs: Are End-to-End Approaches Competitive?},
+  author     = {Yihong Xu and
+                  Lo{\"{\i}}ck Chambon and
+                  {\'{E}}loi Zablocki and
+                  Micka{\"{e}}l Chen and
+                  Alexandre Alahi and
+                  Matthieu Cord and
+                  Patrick P{\'{e}}rez},
+  booktitle = {ICRA},
+  year      = {2024}
 }
 ```
 
